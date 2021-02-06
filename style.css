@@ -1,0 +1,27 @@
+#camera , #result
+{
+  border: 2px dotted aqua;
+  width: 350px;
+  height: 350px; 
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+body{
+  background-image: linear-gradient(#eb34c9 0% ,#c034eb 100%);
+}
+span{
+  font-size: 40px;
+  margin: 10px;
+}
+#b1{
+  width: 50%;
+}
+#b2{
+  width: 50%;
+}
